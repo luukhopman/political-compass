@@ -13,7 +13,7 @@ Politiek spectrum en politiek kompas op basis van Stemwijzer stellingen. Note: d
 ![](figures/political_correlation.png)
 
 ## Politiek Spectrum
-Aan de hand van het eerste principal component (verklaard 39.3% van de totale Stemwijzer variantie).
+Aan de hand van het eerste principal component (verklaard 55.1% van de totale Stemwijzer variantie).
 ![](figures/political_spectrum.png)
 
 ## Politiek Kompas
